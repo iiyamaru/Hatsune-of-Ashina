@@ -27,7 +27,7 @@ A crimson blade.
 
 ## Credits
 
-Model, textures, and voice integration by **[iiyamru]**  
+Model, textures, and voice integration by **iiyamaru**  
 Not affiliated with or endorsed by FromSoftware.
 
 ## License
