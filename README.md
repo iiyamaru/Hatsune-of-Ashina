@@ -1,8 +1,7 @@
 # Hatsune of Ashina
 
-**Hatsune of Ashina** is a character replacement mod for *Sekiro: Shadows Die Twice*.  
-It replaces Wolf with a custom, Miku-inspired model. The model and textures were done in Blender
-and adjusted so they sit naturally in Sekiro’s lighting and animation style.
+Replaces the Wolf with a Miku-styled model for Sekiro: Shadows Die Twice.
+The mesh and textures were created in Blender and hand-tuned to match Sekiro’s lighting and animation style, so she actually fits in the world instead of looking like a meme skin dropped into feudal Japan.
 
 ## Outfits Included
 
